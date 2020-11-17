@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "962540090190",
+    "firebase_url": "https://connectfirebase-ef323.firebaseio.com",
+    "project_id": "connectfirebase-ef323",
+    "storage_bucket": "connectfirebase-ef323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962540090190:android:0696cf655bad3106dca41f",
+        "android_client_info": {
+          "package_name": "com.example.connectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962540090190-4066jt7kmn9glbvpbngct64tm860peec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJLdVUQCH07yrs7Y-q8BSqDDojIeqM9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962540090190-4066jt7kmn9glbvpbngct64tm860peec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962540090190:android:d745d567b3624b8adca41f",
+        "android_client_info": {
+          "package_name": "com.example.menudecomida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962540090190-4066jt7kmn9glbvpbngct64tm860peec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJLdVUQCH07yrs7Y-q8BSqDDojIeqM9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962540090190-4066jt7kmn9glbvpbngct64tm860peec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
